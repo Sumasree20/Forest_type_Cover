@@ -273,16 +273,3 @@ Run all cells sequentially.
 
 ---
 
-# 👨‍💻 Author
-
-**Suma Sree**
-
-B.Tech Computer Science and Engineering
-
-Machine Learning & Data Science Enthusiast
-
----
-
-# 📜 License
-
-This project is developed for educational and learning purposes.
